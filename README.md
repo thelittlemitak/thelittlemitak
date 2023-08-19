@@ -1,14 +1,6 @@
 ## Welcome to my GitHub account 👋🏼
 
-My name is Jose Riera Tur, and I am a passionate JavaScript developer specializing in creating web applications! On parallel, I am learning:
-- NodeJS to create APIs and understand backend functionalities.
-- PhaserJS to put into practice OOP and understand video games principles through JS.
-
-While working on (domains bought and projects started, but still not on the server):
-- totfosk.com: my artist website containing lists of my favorite music.
-- allmyreleases.com: a platform for underground artists to better present their personal releases.
-
-But most importantly: **I am actively looking for a job as a software developer!**
+My name is Jose Riera Tur, and I am a passionate JavaScript developer specializing in creating web applications!
 
 ## Something tells me you are a recruiter... 🤓
 
