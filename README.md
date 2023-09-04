@@ -8,11 +8,13 @@ You can find the source code of https://moremore.me/ in https://github.com/theli
 
 That's my main project where I showcase my React expertise.
 
+www.totfosk.com in development... https://github.com/thelittlemitak/totfosk-website
+
 ## Get in contact 📫
 
 Here is my email: rieraturjose@gmail.com
 
-## Know me more! 🙃
+## More about me! 🙃
 
 - I was born on an island called Ibiza (ES) 🌴 and I live in Berlin (DE) since 2017.
 - I am a techno and drone/ambient producer! 🎵 Here are some of my tracks https://soundcloud.com/totfosk
