@@ -8,7 +8,7 @@ You can find the source code of https://moremore.me/ in https://github.com/theli
 
 That's my main project where I showcase my React expertise.
 
-_www.totfosk.com_ in development... https://github.com/thelittlemitak/totfosk-website
+totfosk.com in development... https://github.com/thelittlemitak/totfosk-website
 
 ## Get in contact 📫
 
