@@ -6,7 +6,7 @@ Source code of the new website in development can be found [here](https://github
 
 ## Get in contact 📫
 
-- Here is my email rieraturjose@gmail.com.
+- Here is my email rieraturjose@gmail.com
 - Let's connect on [LinkedIn](https://www.linkedin.com/in/riera-tur-jose/) too!
 
 ## More about me! 🙃
