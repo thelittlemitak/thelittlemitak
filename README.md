@@ -12,5 +12,5 @@ Source code of the new website in development can be found [here](https://github
 ## More about me! 🙃
 
 - I was born on an island called Ibiza (ES) 🌴 and I live in Berlin (DE) since 2017.
-- I am a passionate drummer, producer, piano player and music teacher! 🥁🎵 You can find all my music projects on [YouTube](https://www.youtube.com/@totfosk).
+- I am a passionate drummer, producer, piano player and music teacher! 🥁🎵
 - I am also passionate about sports 🥊, healthy diets 🥕, mindfullness 🧘🏻‍♂️ and languages 📕.
