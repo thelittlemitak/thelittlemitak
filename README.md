@@ -1,6 +1,6 @@
 ## Something tells me you are a recruiter... 🤓
 
-You can find the source code of [my portfolio website](https://moremore.me/) [here](https://github.com/thelittlemitak/portfolio).
+You can find the source code of [my portfolio website](https://moremore.me/) [here](https://github.com/thelittlemitak/portfolio)!
 
 Source code of the new website in development can be found [here](https://github.com/thelittlemitak/totfosk-website).
 
