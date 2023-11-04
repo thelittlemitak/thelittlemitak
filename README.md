@@ -1,8 +1,9 @@
-## Something tells me you are a recruiter... 🤓
+## Something tells me you are a recruiter... 🤓 Then here is a quick tour:
 
 - [Portfolio website](https://moremore.me/) [(source code)](https://github.com/thelittlemitak/portfolio).
-
-Source code of the new website in development can be found [here](https://github.com/thelittlemitak/totfosk-website).
+- [New artist website under development](https://totfosk-website.vercel.app/) [(source code)](https://github.com/thelittlemitak/totfosk-website).
+- [Collision detector](https://thelittlemitak.github.io/collision-detection/) [(source code)](https://github.com/thelittlemitak/collision-detection).
+- [First website](https://thelittlemitak.github.io/first-website-ever/) [(source code)](https://github.com/thelittlemitak/first-website-ever).
 
 ## Get in contact 📫
 
